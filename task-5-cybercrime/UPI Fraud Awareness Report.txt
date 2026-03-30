@@ -1,0 +1,48 @@
+UPI Fraud Awareness Report
+
+What the Crime is:
+UPI fraud involves manipulating users into authorizing unauthorized bank transfers via the Unified Payments Interface. One of the most prevalent variations is the "QR Code/Receive Money" scam, where attackers use social engineering to trick victims into entering their UPI PIN under the false pretense of receiving a payment.
+
+How it Typically Happeni:
+
+1. The Hook:
+A college student lists an old textbook or a used laptop for sale on a platform like OLX or a campus WhatsApp group.
+
+2. The Engagement:
+A scammer contacts the student, acting as an eager buyer who agrees to the price immediately without negotiation to establish trust.
+
+3. The Trap:
+The scammer states they will pay in advance via Google Pay, PhonePay, or Paytm. Instead of sending money, the scammer sends a "Payment Request" or a QR code to the student's phone.
+
+4. The Execution:
+The scammer calls the student, ceating a false sense of urgency, and instructs them to "scan the code and enter your UPI PIN to receive the funds into your account."
+
+5. The Theft:
+Confused or rushed, the student enters their PIN. Because a PIN is only used to send money, the funds are instantly deducted from the student's account and sent to the scammer.
+
+Who is Usually Targeted:
+Tech-savvy but busy college students looking for part-time income, buying/selling used goods, or paying for informal campus events.
+
+What the Consequences Are:
+The immediate consequence is sudden financial loss, which can be devastating for a student on a tight budget. Beyond the lost funds, it causes severe emotional distres, anxiety, and the immense hassle of freezing bank accounts and filing police reports.
+
+Real Life Practice of Fraud:
+
+1. Fake Buyer Scam :
+Scammers pretend to buy products and send fake payment requests instead of actual money transfers, tricking users into entering their UPI PIN.
+
+2. KYC Update Scam:
+Victims receive calls/messages claiming their bank KYC is incomplete. They are asked to click links or scan QR codes, leading to unauthorized transactions.
+
+3. Job Payment Scam:
+Students applying for part-time jobs are asked to "receive salary" via QR code, but ennd up sending money instead.
+
+4. Refund Scam:
+Scammers pose as customer care agents offering refunds for failed transactions and ask users to approve a collect request.
+
+5. Friend Impersonation Scam:
+Hackers impersonate friends or classmates on WhatsApp and urgently request money, exploting trust.
+
+Conclusion:
+UPI fraud is increasing due to lack of awareness and urgency-based manipulation. Users must remember that entering a UPI PIN always means money is being sent, not received. Awareness, verification, and caution are key to preventing such frauds.
+

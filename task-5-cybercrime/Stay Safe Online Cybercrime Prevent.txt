@@ -1,0 +1,35 @@
+Stay Safe Online: Cybercrime Prevention Checklist for College Students
+
+1. [UPI Safety]
+Never enter your UPI PIN to receive money. Remember the golden rule of Indian digital payments: Your UPI PIN is ONLY required when you are sending money from your account or checking your balance. You do not need a PIN to receive funds.
+
+2. [UPI Safety]
+Double-check the receiver's UPI ID and Name. Before hitting "pay" for a college fest ticket or a canteen bill, verify that the verified name on the screen matches the person or business you intend to pay.
+
+3. Be Skeptical of "Urgency"
+If a caller, message, or email is trying to panic you (e.g., "Your bank account will be blocked in 10 minutes!" or "Last chance for this job offer!"), it is almost certainly a scam. Pause and verify independently.
+
+4. Use Strong Passwords & Enable 2FA
+Use a unique password for your primary email and banking apps. Always enable Two-Factor Authentication (2FA) so that even if someone gets your password, they can't log in without your phone.
+
+5. Avoid Financial Transactions on Public Wi-Fi
+Campus Wi-Fi and cafe networks are easily intercepted. If you must check your bank balance or make a payment, switch to your mobile data.
+
+6. Beware of Fake Customer Care Numbers
+If an app or transaction fails, do not Google "App Name customer care number." Scammers buy ads to put fake numbers at the top of search results. Only use the help section inside the official app.
+
+7. Think Before You Click
+Do not click on unverified links sent via SMS or WhatsApp claiming you have a package delivery issue or won a prize.
+
+8. Protect Your Personal Data on Social Media
+Keep your profiles private and avoid posting high-resolution photos of your ID cards, concert tickets (which have barcodes), or live location updates that can be used for identity theft or stalking.
+
+
+Emergency Reporting Channels
+
+If you or a friend ever become a victim of cybercrime or financial fraud, report it immediately:
+
+National Cyber Crime Portal: cybercrime.gov.in
+
+National Cybercrime Helpline: Dial 1930 (Call immediately if money has been deducted, as banks have a better chance of freezing the funds if reported quickly).
+
